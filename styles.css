@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 1em;
+    padding: 10px;
+    background-color: #db1859;
+    }
+
+header {
+        background-color: #4CAF50;
+        color: white;
+        text-align: center;
+        padding: 1em 0;
+        }
+.introduction {
+            padding: 1em;
+            background-color: #2d98b0;
+            }
+            .journey ul li {
+                color: #fe9f06;
+                
+                margin-left: 1em;
+                }
+
+                main > section {
+                    margin: 2em;
+                    padding: 1em;
+                    border: 1px solid #ed8600;
+                    border-radius: 8px;
+                    }      
+                    .dragon-encounter::before {
+                        content: url('https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/dragon-img_ver_1.jpg');
+                        display: block;
+                        margin: 0 auto 1em;
+                        max-width: 100%;
+                        height: auto;
+                        }     
+                        footer { 
+                            background-color: #0f0f05; 
+                            color: rgb(34, 19, 243); 
+                            text-align: center; 
+                            padding: 1em 0; 
+                           }
+                                
+                           .introduction { 
+                            background-color: #dede35; /* Example color, change to your choice */ }
+                           .journey { 
+                            background-color: #28ebeb; /* Example color, change to your choice */ } 
+                           .dragon-encounter { 
+                            background-color: #ffbd08; /* Example color, change to your choice */ } 
+                           .conclusion { 
+                            background-color: #a42699; /* Example color, change to your choice */ } 
+                            header { 
+                                text-shadow: 2px 2px 4px #6818ae; /* Example property, change to your choice */ } 
+                               main > section { 
+                                box-shadow: 2px 4px 8px rgba(68, 16, 255, 0.1); /* Example property, change to your choice */ }
+                               
+                           
